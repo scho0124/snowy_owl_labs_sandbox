@@ -1,0 +1,25 @@
+@keyframes accordionDown {
+  from {
+    height: 0;
+  }
+  to {
+    height: var(--radix-accordion-content-height);
+  }
+}
+
+@keyframes accordionUp {
+  from {
+    height: var(--radix-accordion-content-height);
+  }
+  to {
+    height: 0;
+  }
+}
+
+.accordionDown {
+  animation: accordionDown 200ms ease-out;
+}
+
+.accordionUp {
+  animation: accordionUp 200ms ease-out;
+}

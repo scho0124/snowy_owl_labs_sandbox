@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "floorNumber": 0,
+    "name": "Floor 0",
+    "wing": "East Wing",
+    "description": "This is the ground floor, you are at the east wing.",
+    "galleries": [],
+    "floorPlan": "/assets/floorplans/floor-0-1.png"
+  },
+  {
+    "id": 1,
+    "floorNumber": 0,
+    "name": "Floor 0",
+    "wing": "West Wing",
+    "description": "This is the ground floor, you are at the west wing.",
+    "galleries": [],
+    "floorPlan": "/assets/floorplans/floor-0-2.png"
+  },
+  {
+    "id": 2,
+    "floorNumber": 1,
+    "name": "Floor 1",
+    "wing": "East Wing",
+    "description": "This is the first floor, you are at the east wing.",
+    "galleries": [],
+    "floorPlan": "/assets/floorplans/floor-1-1.png"
+  },
+  {
+    "id": 3,
+    "floorNumber": 1,
+    "name": "Floor 1",
+    "wing": "West Wing",
+    "description": "This is the first floor, you are at the west wing.",
+    "galleries": [],
+    "floorPlan": "/assets/floorplans/floor-1-2.png"
+  },
+  {
+    "id": 4,
+    "floorNumber": 2,
+    "name": "Floor 2",
+    "wing": "East Wing",
+    "description": "This is the second floor, you are at the east wing.",
+    "galleries": [],
+    "floorPlan": "/assets/floorplans/floor-2-1.png"
+  },
+  {
+    "id": 5,
+    "floorNumber": 2,
+    "name": "Floor 2",
+    "wing": "West Wing",
+    "description": "This is the second floor, you are at the west wing.",
+    "galleries": [],
+    "floorPlan": "/assets/floorplans/floor-2-2.png"
+  },
+  {
+    "id": 6,
+    "floorNumber": 3,
+    "name": "Floor 3",
+    "wing": "East Wing",
+    "description": "This is the third floor, you are at the east wing.",
+    "galleries": [],
+    "floorPlan": "/assets/floorplans/floor-3-1.png"
+  },
+  {
+    "id": 7,
+    "floorNumber": 3,
+    "name": "Floor 3",
+    "wing": "West Wing",
+    "description": "This is the third floor, you are at the west wing.",
+    "galleries": [],
+    "floorPlan": "/assets/floorplans/floor-3-2.png"
+  }
+]
